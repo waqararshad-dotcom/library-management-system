@@ -1,0 +1,38 @@
+﻿			Acquisition Registry
+Acq.NO, Acc.No, Title, Author(s), Publishers, Price, Pages, Date, lend
+A0001,AC0001,The Catcher in the Rye, J.D. Salinger, Little, Brown and Company,Rs. 1580,224,2023-05-12,1
+A0002,AC0002,To Kill a Mockingbird, Harper Lee, J. B. Lippincott & Co.,Rs. 1980,336,2022-09-28,1
+A0003,AC0003,1984, George Orwell, Secker & Warburg,Rs. 1680,328,2023-02-17,0
+A0004,AC0004,The Great Gatsby, F. Scott Fitzgerald, Charles Scribner's Sons,Rs. 1420,180,2022-12-05,1
+A0005,AC0005,Pride and Prejudice, Jane Austen, T. Egerton, Rs. 1280, 432, 2023-08-20, 1
+A0006,AC0006,The Hobbit, J.R.R. Tolkien, George Allen & Unwin, Rs. 2110, 304, 2023-01-09, 1
+A0007,AC0007,Harry Potter and the Sorcerer's Stone, J.K. Rowling, Bloomsbury Publishing,Rs. 2325,320,2022-06-30,1
+A0008,AC0008,Lord of the Flies, William Golding, Faber and Faber,Rs. 1045,224,2023-04-14,1
+A0009,AC0009,Animal Farm, George Orwell, Secker & Warburg,Rs. 1685,112,2023-07-18,1
+A0010,AC0010,Brave New World, Aldous Huxley, Chatto & Windus,Rs. 2215,288,2022-11-22,1
+A0011,AC0011,The Lord of the Rings, J.R.R. Tolkien, George Allen & Unwin,Rs. 4155,1178,2023-03-1,0
+A0012,AC0012,Fahrenheit 451, Ray Bradbury, Ballantine Books,Rs. 1790,249,2022-08-07,0
+A0013,AC0013,The Alchemist, Paulo Coelho, HarperCollins,Rs. 1745,208,2023-09-05,0
+A0014,AC0014,The Little Prince, Antoine de Saint-Exup�ry, Reynal & Hitchcock,Rs. 1425,96,2023-10-19,0
+A0015,AC0015,The Da Vinci Code, Dan Brown, Doubleday,Rs. 1580,489,2023-12-28,0
+A0016,AC0016,Harry Potter and the Chamber of Secrets, J.K. Rowling, Bloomsbury Publishing,Rs. 2195,352,2022-07-14,0
+A0017,AC0017,The Giver, Lois Lowry, Houghton Mifflin,Rs. 1285,240,2022-10-02,0
+A0018,AC0018,The Hunger Games, Suzanne Collins, Scholastic Corporation,Rs. 1685,374,2023-05-05,0
+A0019,AC0019,The Road, Cormac McCarthy, Alfred A. Knopf,Rs. 1805,304,2023-08-30,0
+A0020,AC0020,A Tale of Two Cities, Charles Dickens, Chapman & Hall,Rs. 1045,341,2023-11-11,0
+A0021,AC0021,The Fault in Our Stars, John Green, Dutton Books,Rs. 1425,313,2022-12-18,0
+A0022,AC0022,The Girl with the Dragon Tattoo, Stieg Larsson, Norstedts F�rlag, Rs. 2110, 672, 2023-09-03, 0
+A0023,AC0023,The Help, Kathryn Stockett, Penguin Books,Rs. 1785,464,2023-02-25,0
+A0024,AC0024,The Hitchhiker's Guide to the Galaxy, Douglas Adams, Pan Books,Rs. 1280,208,2023-04-08,0
+A0025,AC0025,The Kite Runner, Khaled Hosseini, Riverhead Books,Rs. 2215,371,2022-08-22,0
+A0026,AC0026,The Picture of Dorian Gray, Oscar Wilde, Ward, Lock & Co.,Rs. 1710,254,2023-06-19,0
+A0027,AC0027,The Road Less Traveled, M. Scott Peck, Simon & Schuster,Rs. 1865,316,2023-01-31,0
+A0028,AC0028,The Secret Garden, Frances Hodgson Burnett, Heinemann,Rs. 990,240,2023-10-12,0
+A0029,AC0029,The Shining, Stephen King, Doubleday,Rs. 1580,688,2022-07-08,0
+A0030,AC0030,The Stand, Stephen King, Doubleday,Rs. 2030,1153,2022-09-15,0
+A0031,AC0031,The Sun Also Rises, Ernest Hemingway, Charles Scribner's Sons,Rs. 1310,251,2023-05-30,0
+A0032,AC0032,The Time Machine, H.G. Wells, William Heinemann,Rs. 1030,118,2023-03-17,0
+A0033,AC0033,The Adventures of Tom Sawyer, Mark Twain, Chatto & Windus,Rs. 1280,240,2023-08-07,0
+A0034,AC0034,The Chronicles of Narnia, C.S. Lewis, Geoffrey Bles,Rs. 3055,768,2023-12-12,0
+A0035,AC0035,The Count of Monte Cristo, Alexandre Dumas, P�tion,Rs. 2225,1276,2022-10-25,0
+A0036,AC0036,The Grapes of Wrath, John Steinbeck, The Viking Press,Rs. 1580,464,2023-10-25,0
